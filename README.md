@@ -8,6 +8,8 @@ Mathematical model of the Lorenz attractor made in JavaScript and rendered with 
 
 Where sigma = 10, rho = 28 and beta = 8/3.
 
+More information can be found at [https://mathworld.wolfram.com/LorenzAttractor.html](https://mathworld.wolfram.com/LorenzAttractor.html).
+
 ---
 
 Main info
@@ -31,12 +33,13 @@ git clone https://github.com/anand-kamble/Lorenz-Attractor.git
 ```
 
 Serve the folder by a server of your choice.
+
 If you have npm installed
 You can use the npm module [serve](https://www.npmjs.com/package/serve)
 by running following command
 
 ```
-serve .
+npx serve .
 ```
 
 Alternatively,
