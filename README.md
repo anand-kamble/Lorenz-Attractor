@@ -4,7 +4,7 @@
 
 Mathematical model of the Lorenz attractor made in JavaScript and rendered with ThreeJS.
 
-![Equations](/docs/eqn.png)
+![Equations](/docs/eqn.png#gh-dark-mode-only)![Equations](/docs/eqn-dark.png#gh-light-mode-only)
 
 Where sigma = 10, rho = 28 and beta = 8/3.
 
